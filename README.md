@@ -12,6 +12,7 @@ This is a simple Node.js script that uses the OpenAI API to take user input and 
    ```
 
 2. **Create a Node.js script**:
+   
 This code should contain the OpenAI API key.
 
 4. **Run the script**:
