@@ -18,5 +18,9 @@ This code should contain the OpenAI API key.
 4. **Run the script**:
 
    ```bash
-   node app.js
+   node chatbot.js
    ```
+   
+![Screenshot 2024-07-26 055821](https://github.com/user-attachments/assets/83d7ac62-1df4-47e3-9a6b-2a761f39c8bd)
+
+
