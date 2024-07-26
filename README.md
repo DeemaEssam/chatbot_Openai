@@ -11,7 +11,7 @@ This is a simple Node.js script that uses the OpenAI API to take user input and 
    npm install openai readline
    ```
 
-2. **Create a Node.js script**:
+2. **Create a chatbot.js script**:
    
 This code should contain the OpenAI API key.
 
